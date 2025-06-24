@@ -1,0 +1,10 @@
+RDS Resources in Boto3:
+- DBInstance
+- DBCluster
+- DBSnapshot
+- DBClusterSnapshot
+- DBSecurityGroup
+- DBSubnetGroup
+- OptionGroup
+- ParameterGroup
+
